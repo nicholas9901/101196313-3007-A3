@@ -1,6 +1,9 @@
 Nicholas Pneumaticos 101196313
 COMP 3005 Assignment 3 Question 1
 
+YouTube link: https://youtu.be/uaJBK5IKMKc
+GitHub repo: https://github.com/nicholas9901/101196313-3007-A3
+
 An application written in C which interfaces with a PostgreSQL database.
 This application works on Windows only.
 

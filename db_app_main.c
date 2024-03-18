@@ -8,7 +8,7 @@ int main()
     PGresult* result;   // Query results are stored here
 
     // Default credentials
-    char dbname[BUFSIZ]    = "b";
+    char dbname[BUFSIZ]    = "postgres";
     char username[BUFSIZ]  = "postgres";
     char password[BUFSIZ]  = "postgres";
 
